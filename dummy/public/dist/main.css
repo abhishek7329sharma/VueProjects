@@ -1,0 +1,11 @@
+body, html {
+  height: 100vh;
+}
+
+#app noscript, body {
+  background-color: #d1cdcd;
+  color: blue;
+  display: grid;
+  grid-template-columns: 80% auto;
+  margin: 0;
+}

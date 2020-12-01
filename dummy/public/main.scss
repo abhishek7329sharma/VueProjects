@@ -1,0 +1,15 @@
+$primary: #3797a4;
+
+body, html{
+    height: 100vh;
+}
+
+#app noscript, body{
+
+    background-color: rgb(209, 205, 205);
+    color: blue;
+    display: grid;
+    grid-template-columns: 80% auto;
+    margin: 0;
+
+}
